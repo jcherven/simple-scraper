@@ -1,0 +1,12 @@
+'accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+'accept-encoding': 'gzip, deflate, br',
+'accept-language': 'en-US,en;q=0.9',
+'cache-control': 'max-age=0',
+'cookie': 'ubid-main=135-1866706-4508253; session-id=142-6620314-3796403; session-id-time=2082787201l; session-token=DUSnSQbf+RSbf3cNZJpTQiW2dLQhs87OSgGhBRMpy5RjRdFq4QMDvGX9WvB64SdL1nZQiB1cZH7WXJmciHAKBYgfASO+JOj4ALy6aOiSDyKUOuDryXn/QFtBSb6Ai5wT0PH4X5jOS5eo5H2Ig5a9txigST5n8GDKN/0Vu8QOGWRDwtTM7Rl6ynHJeo1zj1E0; uu=BCYs0lRTschtxkr5DmfFWssEvjdrlcbPzNcycipXGd-Tyqwud6lMnN2OxlXrCU56VOHS6FsEPqli%0D%0Ag7UWe9Djpz74Rwx9WA-epufNAvVmm-rp6tcRFOFnsvy_WoNCyk1vzLTd4hDWVasSnv-5mBu4_moJ%0D%0ABw%0D%0A; as=%7B%22n%22%3A%7B%22t%22%3A%5B970%2C250%5D%2C%22tr%22%3A%5B300%2C250%5D%2C%22in%22%3A%5B0%2C0%5D%2C%22ib%22%3A%5B0%2C0%5D%7D%7D; adblk=adblk_no; csm-hit=tb:BECJT7MG3SWXVHRY8KC0+s-EX0247F5XQ91T9WNK7WW|1583439322035&t:1583439328608&adb:adblk_no',
+'referer': 'https://www.imdb.com/find?q=silence+of+the+lambs&ref_=nv_sr_sm',
+'sec-fetch-dest': 'document',
+'sec-fetch-mode': 'navigate',
+'sec-fetch-site': 'same-origin',
+'sec-fetch-user': '?1',
+'upgrade-insecure-requests': '1',
+'user-agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.122 Safari/537.36'
